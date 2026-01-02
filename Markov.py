@@ -96,8 +96,7 @@ def get_followup_word(followups):
 #buildMatrix("input.txt")
 
 build_matrix("pride and prejudice.txt")
-build_matrix("bee movie script.txt")
-build_matrix("Tragedies of sex.txt")
+
 
 babel(30)
 babel(30)
